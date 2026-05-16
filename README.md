@@ -214,7 +214,7 @@ were among the most influential predictors of insurance costs.
 ---
 
 # Project Structure
-
+```text id="4jlwmk"
 ├── data/
 │   └── insurance.csv
 ├── notebooks/
