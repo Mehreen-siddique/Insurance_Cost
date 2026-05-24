@@ -31,11 +31,11 @@ The following datasets were used throughout this project.
 
 | Dataset | Problem Type | Objective | Dataset Link |
 |---|---|---|---|
-| Medical Insurance Cost | Regression | Predict insurance charges | Add Link |
-| Bike Sharing Demand | Regression | Predict bike rental demand | Add Link |
-| Titanic | Classification | Predict survival | Add Link |
-| Student Performance in Exams | Regression + Classification | Predict score & pass/fail | Add Link |
-| Heart Disease UCI | Classification | Predict heart disease | Add Link |
+| Medical Insurance Cost | Regression | Predict insurance charges | https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset |
+| Bike Sharing Demand | Regression | Predict bike rental demand | https://www.kaggle.com/competitions/bike-sharing-demand |
+| Titanic | Classification | Predict survival | https://www.kaggle.com/competitions/titanic |
+| Student Performance in Exams | Regression + Classification | Predict score & pass/fail | https://www.kaggle.com/datasets/spscientist/students-performance-in-exams |
+| Heart Disease UCI | Classification | Predict heart disease | https://www.kaggle.com/datasets/alihamza01/heart-disease-uci |
 
 ---
 
@@ -44,19 +44,19 @@ The following datasets were used throughout this project.
 Replace the links below with your actual Kaggle or UCI dataset URLs.
 
 ### Medical Insurance Cost
-[Dataset Link](PASTE_LINK_HERE)
+https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset
 
 ### Bike Sharing Demand
-[Dataset Link](PASTE_LINK_HERE)
+https://www.kaggle.com/competitions/bike-sharing-demand
 
 ### Titanic Competition
-[Dataset Link](PASTE_LINK_HERE)
+https://www.kaggle.com/competitions/titanic
 
 ### Student Performance in Exams
-[Dataset Link](PASTE_LINK_HERE)
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 ### Heart Disease UCI
-[Dataset Link](PASTE_LINK_HERE)
+https://www.kaggle.com/datasets/alihamza01/heart-disease-uci
 
 ---
 
@@ -302,7 +302,7 @@ Replace with your actual results.
 | Insurance | Regression |XGB Boost |r2 = 0.86 |
 | Bike Sharing | Regression |Random Forest | Log_value score beats |
 | Titanic | Classification |Random Forest |Accuracy = 0.85 |
-| Student | Classification |Linear Regression | Accuracy = 0.94Randon  |
+| Student | Classification |Linear Regression | Accuracy = 0.94 |
 | Heart Disease | Classification |Random Forest | Accuracy = 0.82 |
 
 ---
@@ -362,6 +362,6 @@ The findings show that no single model is universally best and successful machin
 
 **Mehreen Siddique**
 
-GitHub: Add Link  
-Kaggle: Add Link  
-LinkedIn: Add Link
+GitHub: https://www.github.com/Mehreen-siddique/ 
+Kaggle: https://www.kaggle.com/mehreensiddique 
+LinkedIn: https://www.linkedin.com/in/mehreen-siddique/?skipRedirect=true
