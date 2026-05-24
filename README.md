@@ -270,13 +270,12 @@ Replace with your actual results.
 
 | Dataset | Model | R² Score | RMSE | MAE |
 |---|---|---:|---:|---:|
-| Insurance | Linear Regression | | | |
-| Insurance | Random Forest | | | |
-| Insurance | XGBoost | | | |
-| Bike Sharing | Random Forest | | | |
-| Bike Sharing | SVR | | | |
-| Student Score | Ridge | | | |
-| Student Score | XGBoost | | | |
+| Insurance | Linear Regression |0.81 |0.40 |0.26 |
+| Insurance | Random Forest |0.85 |0.36 |0.18 |
+| Insurance | XGBoost |0.86 |0.34 |0.18 |
+| Bike Sharing | Random Forest | |0.32 | |
+| Student Score | Random Forest | 0.79|6.50 | |
+| Student Score | XGBoost |0.81 |6.20 | |
 
 ---
 
